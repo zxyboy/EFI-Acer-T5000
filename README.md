@@ -2,16 +2,15 @@
 
 ## 机器型号以及配置
 
-机器型号：Acer T5000-707D 
-配置参考：http://detail.zol.com.cn/1136/1135969/param.shtml
-
-CUP : I7 6700HQ
-内存：两条8G，频率：2133，DDR4
-硬盘：256固态(M.2接口, NVMe协议，型号： NVMeSamsung SSD 970 EVO Plus 250GB) + 120G固态（M.2接口 ，Sata协议，型号： HP S700 120GB ）
-显卡：
+- 机器型号：Acer T5000-707D 
+- 配置参考：http://detail.zol.com.cn/1136/1135969/param.shtml
+- CUP : I7 6700HQ
+- 内存：两条8G，频率：2133，DDR4
+- 硬盘：256固态(M.2接口, NVMe协议，型号： NVMeSamsung SSD 970 EVO Plus 250GB) + 120G固态（M.2接口 ，Sata协议，型号： HP S700 120GB ）
+- 显卡：
 	核显： Intel HD 530
 	独显： NVIDIA GeForce GTX 950M（DDR3，2G）
-有线网卡：Realtek RTL8168H/8111H PCI Express Gigabit Ethernet：
+- 有线网卡：Realtek RTL8168H/8111H PCI Express Gigabit Ethernet：
 
 ## 安装Mac系统
 	安装系统： Catalina 10.15.2 
@@ -37,5 +36,6 @@ CUP : I7 6700HQ
 	2、独立显卡（苹果目前不支持N卡，所以这个无法解决）
 
 ## 还有一些不足之处
-	1、机型目前设置的是MacBookPro13,1 , 但是我这个配置明显设置MacBookPro13,3更为合适，但是设置成MacBookPro13,3以后，外接显示器就不能正常工作。
+	1、机型目前设置的是MacBookPro13,1 , 但是我这个配置明显设置MacBookPro13,3更为合适，
+		但是设置成MacBookPro13,3以后，外接显示器就不能正常工作。
 

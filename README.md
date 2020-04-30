@@ -43,3 +43,4 @@
 		但是设置成MacBookPro13,3以后，外接显示器就不能正常工作。
 
 其他机型参考：https://github.com/huangyz0918/Hackintosh-Installer-University
+https://github.com/daliansky/Hackintosh/blob/master/README_en.md

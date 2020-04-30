@@ -11,7 +11,7 @@
 	核显： Intel HD 530
 	独显： NVIDIA GeForce GTX 950M（DDR3，2G）
 - 有线网卡：Realtek RTL8168H/8111H PCI Express Gigabit Ethernet：
-- 声卡： Realtek ALC256
+- 声卡： Realtek HD Audio: ALC 255 
 
 ## 安装Mac系统
 	安装系统： Catalina 10.15.2 
@@ -31,6 +31,8 @@
 	8、调节亮度
 		减少亮度： fn + F12
 		增加亮度： fn + Pause Break	
+	9、电源
+	10、摄像头
 
 ## 那些不能够正常工作
 	1、无线网卡 （我是在淘宝买了USB无线网卡）

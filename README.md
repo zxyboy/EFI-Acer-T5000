@@ -4,7 +4,7 @@
 
 - 机器型号：Acer T5000-707D 
 - 配置参考：http://detail.zol.com.cn/1136/1135969/param.shtml
-- CUP : I7 6700HQ
+- CPU : I7 6700HQ
 - 内存：两条8G，频率：2133，DDR4
 - 硬盘：256固态(M.2接口, NVMe协议，型号： NVMeSamsung SSD 970 EVO Plus 250GB) + 120G固态（M.2接口 ，Sata协议，型号： HP S700 120GB ）
 - 显卡：

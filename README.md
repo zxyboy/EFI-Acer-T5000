@@ -11,6 +11,7 @@
 	核显： Intel HD 530
 	独显： NVIDIA GeForce GTX 950M（DDR3，2G）
 - 有线网卡：Realtek RTL8168H/8111H PCI Express Gigabit Ethernet：
+- 声卡： Realtek ALC256
 
 ## 安装Mac系统
 	安装系统： Catalina 10.15.2 

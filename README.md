@@ -42,3 +42,4 @@
 	1、机型目前设置的是MacBookPro13,1 , 但是我这个配置明显设置MacBookPro13,3更为合适，
 		但是设置成MacBookPro13,3以后，外接显示器就不能正常工作。
 
+其他机型参考：https://github.com/huangyz0918/Hackintosh-Installer-University

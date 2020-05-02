@@ -41,5 +41,6 @@
 ## 还有一些不足之处
 	1、机型目前设置的是MacBookPro13,1 , 但是我这个配置明显设置MacBookPro13,3更为合适，
 		但是设置成MacBookPro13,3以后，外接显示器就不能正常工作。
+	2、设置进行iMac17.1可以成功开机，并且可以使用扩展第二个屏幕（HDMI删除），触摸板可以使用。		
 其他机型参考：https://github.com/huangyz0918/Hackintosh-Installer-University
 https://github.com/daliansky/Hackintosh/blob/master/README_en.md
